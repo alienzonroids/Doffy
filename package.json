@@ -1,0 +1,19 @@
+{
+  "name": "doffy",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alienzonroids/Doffy.git"
+  },
+  "author": "AlienzOnRoids",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alienzonroids/Doffy/issues"
+  },
+  "homepage": "https://github.com/alienzonroids/Doffy#readme"
+}
